@@ -1,9 +1,15 @@
-### Hi there 👋
+### Hi, I'm Meghana!
 
 <!--
 **msomu07/msomu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daroshi11260&hide=html,javascript,css)
+![Skills](https://skillicons.dev/icons?i=java,html,css,js,py,sql)
+
+>📫 How to reach me:
+>> Email: <h4 href="mailto:rytaneja@gmail.com">msomu32@gmail.com</h4>
+>🌱 I’m currently learning
+>> [Skills](https://skillicons.dev/icons?i=py)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
