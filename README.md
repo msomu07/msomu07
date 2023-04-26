@@ -1,4 +1,4 @@
-### Hi, I'm Meghana!
+### hi, i'm meghana!
 
 <!--msomu07/msomu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -7,11 +7,8 @@
 <br>
 ![Skills](https://skillicons.dev/icons?i=java,html,css,js,py,sql)
 
-📫 How to reach me:
+📫 email:
 <h4 href="mailto:msomu32@gmail.com">msomu32@gmail.com</h4>
-
-🌱 I’m currently learning:
-![Skills](https://skillicons.dev/icons?i=py)
 
 <!-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
