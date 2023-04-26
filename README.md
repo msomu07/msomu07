@@ -7,8 +7,7 @@
 <br>
 ![Skills](https://skillicons.dev/icons?i=java,html,css,js,py,sql)
 
-📫 email:
-<h4 href="mailto:msomu32@gmail.com">msomu32@gmail.com</h4>
+📫 email: <p href="mailto:msomu32@gmail.com">msomu32@gmail.com</p>
 
 <!-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
