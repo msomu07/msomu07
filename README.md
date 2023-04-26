@@ -8,8 +8,8 @@
 ![Skills](https://skillicons.dev/icons?i=java,html,css,js,py,sql)
 <br>
 
-<!--📫 email: <p href="mailto:msomu32@gmail.com">msomu32@gmail.com</p>-->
-email: msomu32@gmail.com
+email: msomu32@gmail.com 
+<br>
 discord: meghana#0194
 
 <!-- 🔭 I’m currently working on ...
