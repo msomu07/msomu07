@@ -5,7 +5,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msomu07)
 <br>
 <br>
-<br>
 ![Skills](https://skillicons.dev/icons?i=java,html,css,js,py,sql)
 
 📫 How to reach me:
