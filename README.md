@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msomu07)
 <br>
 <br>
-![Skills](https://skillicons.dev/icons?i=java,html,css,js,py,sql)
+![Skills](https://skillicons.dev/icons?i=java,html,css,js,py,sqlite&theme=light)
 <br>
 
 email: msomu32@gmail.com 
