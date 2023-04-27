@@ -2,7 +2,7 @@
 
 <!--msomu07/msomu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msomu07)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msomu07&bg_color=00000000)
 <br>
 <br>
 ![Skills](https://skillicons.dev/icons?i=java,html,css,js,py,sqlite,r,github&theme=light&perline=5)
