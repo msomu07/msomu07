@@ -1,4 +1,4 @@
-### $${\color{red}hi, im meghana!}$$
+### hi, im meghana!
 
 <!--msomu07/msomu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
