@@ -10,7 +10,7 @@
 
 email: msomu32@gmail.com 
 <br>
-discord: meghana#0194
+discord: meghana_s
 
 <!-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
