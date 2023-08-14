@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msomu07&theme=dracula&bg&hide=jupyter%20notebook_color=00000000)
 <br>
 <br>
-![Skills](https://skillicons.dev/icons?i=java,html,css,js,py,jupyter%20notebook,sqlite,r,github&theme=light&perline=5)
+![Skills](https://skillicons.dev/icons?i=java,html,css,js,py,sqlite,r,github&theme=light&perline=5)
 <br>
 
 email: msomu32@gmail.com 
